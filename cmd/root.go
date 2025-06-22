@@ -1,5 +1,5 @@
 /*
-Copyright © 2025 fxkcode
+Copyright © 2025 fxckcode
 */
 package cmd
 
